@@ -1,3 +1,4 @@
+
 # yolo-dataset-toolkit
 
 > 把 X-AnyLabeling 的标注一键变成能直接训练的 YOLO 数据集，并且能亲眼看见转换结果对不对。
@@ -90,7 +91,9 @@ txt 里的 `0`、`1`、`2` 是什么类别？查看页会自动读 `data.yaml` �
 
 ## 演示
 
-![使用演示](演示.gif)
+<img width="1444" height="752" alt="演示" src="https://github.com/user-attachments/assets/ae3f34f5-78af-4c6d-913e-ad6becdd03ea" />
+
+
 
 **演示覆盖的流程：**
 
